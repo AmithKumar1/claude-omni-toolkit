@@ -1,0 +1,38 @@
+# Node/JS
+node_modules/
+dist/
+build/
+.npm/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# OS/System
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# API Keys (Never commit these!)
+*.pem
+*.key
+
+# Editor
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
